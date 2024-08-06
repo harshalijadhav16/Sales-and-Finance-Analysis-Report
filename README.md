@@ -1,4 +1,4 @@
-# Sales-and-Finance-Analysis-Report
+# Sales-and-Finance-Analysis-Report[Excel]
 In-depth Sales and Finance Analysis for Atliq Hardware
 
 # Description
